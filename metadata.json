@@ -1,0 +1,8 @@
+{
+  "name": "Sawai Madhopur Jansankhya & Census Portal",
+  "description": "सवाई माधोपुर जिले का जनसँख्या पंजीकरण एवं नागरिक डेटा प्रबंधन पोर्टल - Secure Admin OTP Protected Census & Resident Information Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
